@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=uPMxUnBjGG8
 https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis
 
 https://google.github.io/styleguide/jsguide.html
+
+important;
+https://www.youtube.com/watch?v=3RIaH0NnG64&t=42s
